@@ -21,4 +21,4 @@
 [![Connect withLinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amal-k-philip-485863343/)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yourusername&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=amal-k04&icon=0&color=0)](https://visitcount.itsvg.in)
