@@ -1,5 +1,5 @@
 ### Hi there 👋 Amal K Philip
-![Your GitHub Banner](https://your-image-url.com) 
+![Your GitHub Banner](https://avatars.githubusercontent.com/u/183818032?v=4&size=64) 
 
 # 💫 About Me:
 🔭 I’m currently working on some web development Projects<br>🤝 I’m looking for help with web development skills<br>🌱 I’m currently learning React<br>💬 Ask me about c, html, css, js, python
