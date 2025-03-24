@@ -1,10 +1,9 @@
-### Hi there 👋 Amal K Philip
-![Your GitHub Banner](https://avatars.githubusercontent.com/u/183818032?v=4&size=64&borderradius:50%) 
+### Hi there 👋 AMAL K PHILIP
 
 # 💫 About Me:
 🔭 I’m currently working on some web development Projects<br>🤝 I’m looking for help with web development skills<br>🌱 I’m currently learning React<br>💬 Ask me about c, html, css, js, python
 
-
+[![](https://visitcount.itsvg.in/api?id=amal-k04&icon=0&color=0)](https://visitcount.itsvg.in)
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
 # 📊 GitHub Stats:
