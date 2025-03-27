@@ -19,6 +19,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=amal-k04&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 📫 Connect With Me:
-[![Connect withLinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amal-k-philip-485863343/)
+[![Connect with LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amal-k-philip-485863343/)
 
 <img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
