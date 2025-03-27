@@ -4,7 +4,7 @@
 🔭 I’m currently working on some web development Projects<br>🤝 I’m looking for help with web development skills<br>🌱 I’m currently learning React<br>💬 Ask me about c, html, css, js, python
 
 ---
-[![](https://visitcount.itsvg.in/api?id=amal-k04&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
@@ -22,5 +22,4 @@
 ### 📫 Connect With Me:
 [![Connect withLinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amal-k-philip-485863343/)
 
----
 <img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
