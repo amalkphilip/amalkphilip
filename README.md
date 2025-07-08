@@ -1,8 +1,8 @@
-<div style="algin:centre">
-<h1> Hi there 👋 AMAL K PHILIP</h1>
+<div align="center" style="padding: 20px; background-color: #f5f5f5; border-radius: 15px; box-shadow: 2px 2px 15px rgba(0,0,0,0.2);">
+<h1 align= "centre"> Hi there 👋 AMAL K PHILIP</h1>
 
-# 💫 About Me:
-🔭 I’m currently working on some web development Projects<br>🤝 I’m looking for help with web development skills<br>🌱 I’m currently learning React<br>💬 Ask me about c, html, css, js, python
+<h2 align= "centre"> 💫 About Me:</h2>
+🔭 I’m currently working on some web development Projects.<br>🤝 I’m looking for help with web development skills.<br>🌱 I’m currently learning React,Java.<br>💬 Ask me about c, html, css, js, python.
 
 <img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
 
@@ -10,8 +10,6 @@
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,html,css,js,c,mysql,git,github,vscode,java" />
   </a>
-
-</div>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=amalkphilip&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -38,3 +36,4 @@
 
 <img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
 
+</div>
