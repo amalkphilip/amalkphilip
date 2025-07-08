@@ -1,5 +1,5 @@
 <div algin="centre">
-### Hi there 👋 AMAL K PHILIP
+<h1> Hi there 👋 AMAL K PHILIP</h1>
 
 # 💫 About Me:
 🔭 I’m currently working on some web development Projects<br>🤝 I’m looking for help with web development skills<br>🌱 I’m currently learning React<br>💬 Ask me about c, html, css, js, python
