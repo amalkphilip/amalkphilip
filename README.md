@@ -28,5 +28,6 @@
 
 ### 📫 Connect With Me:
 [![Connect with LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=LINKEDIN)](https://www.linkedin.com/in/amal-k-philip-485863343/)
+<a href="mailto:amal17philip@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 <img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
