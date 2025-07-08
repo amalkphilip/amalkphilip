@@ -1,4 +1,4 @@
-<div algin="centre">
+<div style="algin:centre">
 <h1> Hi there 👋 AMAL K PHILIP</h1>
 
 # 💫 About Me:
@@ -8,7 +8,7 @@
 
 # 💻 Tech Stack:
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,html,css,js,,c,mysql,git,github,vscode,java" />
+    <img src="https://skillicons.dev/icons?i=python,html,css,js,c,mysql,git,github,vscode,java" />
   </a>
 
 </div>
