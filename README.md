@@ -22,7 +22,6 @@
 
 <img src="https://raw.githubusercontent.com/amalkphilip/amalkphilip/output/snake.svg" alt="Snake animation" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amalkphilip&theme=react-dark&area=true&hide_border=true"/>
 
 ### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
