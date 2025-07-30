@@ -1,5 +1,5 @@
 <div align="center" style="padding: 20px; background-color: #f5f5f5; border-radius: 15px; box-shadow: 2px 2px 15px rgba(0,0,0,0.2);">
-<h1 align= "centre"> Hi there 👋 AMAL K PHILIP</h1>
+<h1 align= "centre"> Hi 👋, AMAL K PHILIP</h1>
 
 <h2 align= "centre"> 💫 About Me:</h2>
 🔭 I’m currently working on some web development Projects.<br>🤝 I’m looking for help with web development skills.<br>🌱 I’m currently learning React,Java.<br>💬 Ask me about c, html, css, js, python.
