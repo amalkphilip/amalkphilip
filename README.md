@@ -1,3 +1,6 @@
+![Divider](https://amalkphilip.xyz/github/aboutme2.gif)
+
+
 <div align="center" style="padding: 20px; background-color: #f5f5f5; border-radius: 15px; box-shadow: 2px 2px 15px rgba(0,0,0,0.2);">
 <h1 align= "centre"> Hi 👋, AMAL K PHILIP</h1>
 
