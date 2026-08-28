@@ -1,7 +1,7 @@
 ![Divider](https://amalkphilip/github/aboutme2.gif)
 
 <div align="center" style="padding: 20px; background-color: #f5f5f5; border-radius: 15px; box-shadow: 2px 2px 15px rgba(0,0,0,0.2);">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=console.log(%22Hi+There!👋%22)+;+I'm+Amal+K+Philip!😊;+A+Front-End+Developer!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=console.log(%22Hi+There!👋%22)+;+I'm+Amal+K+Philip!;+A+Front-End+Developer!;" />
 
 
 <h2 align= "centre"> 💫 About Me:</h2>
